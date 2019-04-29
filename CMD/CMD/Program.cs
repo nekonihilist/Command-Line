@@ -8,16 +8,10 @@ namespace CMD
         static void Main(string[] args)
         {
             Console.Title = "CMD";
-            CommandChecker commandChecker = new CommandChecker();
-            bool isFirst = true;
+                       Console.Title = "CMD";
             while(true)
             {
-                if(!isFirst)
-                {
-                    commandChecker = new CommandChecker();
-                }
-                commandChecker.CommandCheck();
-                isFirst = false;
+                new CommandChecker().CommandCheck();
             }
         }
     }
