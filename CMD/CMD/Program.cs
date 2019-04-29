@@ -8,7 +8,6 @@ namespace CMD
         static void Main(string[] args)
         {
             Console.Title = "CMD";
-                       Console.Title = "CMD";
             while(true)
             {
                 new CommandChecker().CommandCheck();
