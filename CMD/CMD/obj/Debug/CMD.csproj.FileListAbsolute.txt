@@ -1,0 +1,7 @@
+C:\Users\Руслан\Desktop\программирование\Проекты\CMD\CMD\bin\Debug\CMD.exe.config
+C:\Users\Руслан\Desktop\программирование\Проекты\CMD\CMD\bin\Debug\CMD.exe
+C:\Users\Руслан\Desktop\программирование\Проекты\CMD\CMD\bin\Debug\CMD.pdb
+C:\Users\Руслан\Desktop\программирование\Проекты\CMD\CMD\obj\Debug\CMD.csprojAssemblyReference.cache
+C:\Users\Руслан\Desktop\программирование\Проекты\CMD\CMD\obj\Debug\CMD.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\программирование\Проекты\CMD\CMD\obj\Debug\CMD.exe
+C:\Users\Руслан\Desktop\программирование\Проекты\CMD\CMD\obj\Debug\CMD.pdb
